@@ -1,4 +1,4 @@
-Learning by doing fun with 7 segment display and 74HC595 Shift Register. Made this Temperatue and Humidity thing with an ATtiny 85 and a 74HC595 Shift Register. It displays alternating temperature and humidity with decimal point if nessesairy. How to address the 7 segments and measure sensor readings with 5 pins on an ATTiny85? These articles helped me to find the solution:
+Learning by doing fun with 7 segment display and 74HC595 Shift Register. Made this Temperatue and Humidity thing with an ATtiny 85 and a 74HC595 Shift Register. It displays alternating temperature and humidity with decimal point if nessesairy. How to address the 7 segments and measure sensor readings with only 5 free pins on an ATTiny85? These articles helped me to find the solution:
 <BR><BR>https://www.electronicwings.com/users/SMRITISINGH/projects/1309/dice-using-7-segment-display-and-attiny85
 <BR>https://www.youtube.com/watch?v=yi_e0TZ0uKw
 <BR>https://www.tinkercad.com/things/jz9WaizxM4N-dice-with-7segment-display-and-attiny85/editel
