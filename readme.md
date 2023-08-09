@@ -6,3 +6,6 @@ Made this Temperatue and Humidity thing with an ATtiny 85 and a 74HC595 Shift Re
 <BR>https://www.tinkercad.com/things/jz9WaizxM4N-dice-with-7segment-display-and-attiny85/editel
 <BR>https://iotprojectsideas.com/mini-weather-station-using-dht22-attiny85/
 <BR>
+
+![temphum](https://github.com/gtmans/ATTiny7segBitshift/blob/main/ATTiny7segBitshiftPic.jpg)<BR>
+![temphum](https://github.com/gtmans/ATTiny7segBitshift/blob/main/ATTiny7segBitshiftPic2.jpg)
