@@ -12,4 +12,5 @@ Learning by doing fun with 7 segment display and 74HC595 Shift Register. Made th
 ![temphum](https://github.com/gtmans/ATTiny7segBitshift/blob/main/ATTiny7segBitshift.png)<BR>
 ![temphum](https://github.com/gtmans/ATTiny7segBitshift/blob/main/ATTiny7segBitshift-FRITZING.png)<BR>
 
-<img src="https://github.com/gtmans/ATTiny7segBitshift/blob/main/ATTiny7segBitshiftPic2.jpg">
+<img src="https://github.com/gtmans/ATTiny7segBitshift/blob/main/ATTiny7segBitshiftPic2.jpg"><BR>
+<img src="https://github.com/gtmans/ATTiny7segBitshift/blob/main/ATTiny7segBitshiftPic-back.jpg">
